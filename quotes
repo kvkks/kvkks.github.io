@@ -20,22 +20,22 @@
         </style>
     </head>
     <body>
-      <h1><center>Quotes</h1>
+      <h1><center>Quotes</center></h1>
       
-      <p class="hap-ref"><center>The happiness of your life <br> depends upon the quality of your thoughts....<br>
-         Therefore <strong>guard</strong> accordingly!<br></center></p>
+      <p class="hap-ref">The happiness of your life <br> depends upon the quality of your thoughts....<br>
+         Therefore <strong>guard</strong> accordingly!</p>
         
-        <p class="Wor-ref"><left>By being yourself you put something wonderful<br> in the World that was not there before...<br></left></p>
+        <p class="Wor-ref">By being yourself you put something wonderful<br> in the World that was not there before...<br></p>
         
-        <p class="hap-ref"><center>Simplicity is not a simple thing.<br></center></p>
+        <p class="hap-ref">Simplicity is not a simple thing.<br></p>
         
-        <p class="Wor-ref"><right>The true measure of a man is how he treats<br> someone who can do him absolutely no good.<br></right></p>
+        <p class="Wor-ref">The true measure of a man is how he treats<br> someone who can do him absolutely no good.<br></p>
         
-        <p class="hap-ref"><center>Courage is rightly esteemed the first of human qualities ...<br> because it is the quality which guarantees all others.<br></center></p>
+        <p class="hap-ref">Courage is rightly esteemed the first of human qualities ...<br> because it is the quality which guarantees all others.<br></p>
         
-        <p class="Wor-ref"><left>Surround yourself with only people <br>who are going to lift you higher.<br></left></p>
+        <p class="Wor-ref">Surround yourself with only people <br>who are going to lift you higher.<br></p>
         
-         <p class="hap-ref"><center>Within you is the divine capacity to manifest and attract all your desire<br></center></p>
+         <p class="hap-ref">Within you is the divine capacity to manifest<br> and attract all your desire<br></p>
       
     </body>
 </html>
