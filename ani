@@ -3,6 +3,7 @@
     <head>
         <meta charset="utf-8">
         <title>Project: Animation</title>
+        </head>
 
 <script>
 noStroke();
@@ -34,3 +35,4 @@ draw = function() {
   
 };
 </script>
+</html>
